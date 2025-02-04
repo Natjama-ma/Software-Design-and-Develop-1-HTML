@@ -50,9 +50,10 @@
     <strong>This text is strong</strong>    
 </body>
 </html>
+
 - ภาพผลลัพธ์:
 [วางภาพ screenshot ที่นี่]
-![image](https://github.com/user-attachments/assets/a083af99-8061-4421-b9cb-ab274c388f83)
+![image](https://github.com/user-attachments/assets/debf8997-5d22-40ed-a99f-7786c687187c)
 
 
 
