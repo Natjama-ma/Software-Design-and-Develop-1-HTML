@@ -33,6 +33,10 @@
 - `<strong>` ใช้เน้นข้อความ (แสดงเป็นตัวหนา)
 
 ### บันทึกผลการทดลอง
+- ภาพผลลัพธ์:
+[วางภาพ screenshot ที่นี่]
+![image](https://github.com/user-attachments/assets/15f6a32d-2e5b-4f41-bd68-98ebf77afcf6)
+
 - รหัสเอกสาร HTML ที่เขียน:
 ```html
 [วางโค้ด HTML ที่นี่]
@@ -50,10 +54,6 @@
     <strong>This text is strong</strong>    
 </body>
 </html>
-
-- ภาพผลลัพธ์:
-[วางภาพ screenshot ที่นี่]
-![image](https://github.com/user-attachments/assets/debf8997-5d22-40ed-a99f-7786c687187c)
 
 
 
