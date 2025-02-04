@@ -163,12 +163,96 @@
    - มีปุ่มกลับด้านบน
 
 ### บันทึกผลการทดลอง
+- ภาพผลลัพธ์:
+[วางภาพ screenshot ที่นี่]
+
+![image](https://github.com/user-attachments/assets/819cb1ac-6d5d-4c63-a793-77e69160d58c)
+![image](https://github.com/user-attachments/assets/5931a15f-4085-4cb0-b4c8-bc0dce0bfa7b)
+![image](https://github.com/user-attachments/assets/0b907000-fce4-4840-b221-0646c2e73149)
+
 - รหัสเอกสาร HTML ที่เขียน:
 ```html
 [วางโค้ด HTML ที่นี่]
-```
-- ภาพผลลัพธ์:
-[วางภาพ screenshot ที่นี่]
+```<!DOCTYPE html>
+<html lang="th"> 
+<head>
+    <meta charset="UTF-8">
+    <title>หน้าหลัก</title>
+</head>
+<body>
+    <nav>
+        <!-- ลิงก์ภายใน - ไปยังหน้าในเว็บไซต์เดียวกัน -->
+        <a href="index.html">หน้าหลัก</a>
+        <a href="pages/about.html">เกี่ยวกับเรา</a>
+        <a href="pages/contact.html">ติดต่อเรา</a>
+    </nav>
+    <hr> 
+    <section>
+        <h1> BARBIE </h1> 
+        <figure>
+            <a href="images/products/01.jpg">
+            <img src="images/products/01.jpg" 
+                 alt="คลิกเพื่อดูรูปขนาดใหญ่"
+                 width="200">
+            </a>
+            <figcaption>
+                 <p><strong>Barbie and Secret Door</strong>
+                <br>บาร์บี้กับประตูพิศวง <br> <strong>ราคา </strong>: 180 บาท</p>
+            </figcaption>
+        </figure>
+        <hr>
+        <figure>
+            <a href="images/products/02.jpg">
+            <img src="images/products/02.jpg" 
+                 alt="คลิกเพื่อดูรูปขนาดใหญ่"
+                 width="200">
+            </a>
+            <figcaption>
+                 <p><strong>Barbie as The Princess and the Pauper</strong>
+                <br>บาร์บี้ เจ้าหญิงกับสาวผู้ยากไร้ <br> <strong>ราคา </strong>: 200 บาท</p>
+            </figcaption>
+        </figure>
+        <hr>
+        <figure>
+            <a href="images/products/03.jpg">
+            <img src="images/products/03.jpg" 
+                 alt="คลิกเพื่อดูรูปขนาดใหญ่"
+                 width="200">
+            </a>
+            <figcaption>
+                 <p><strong>Barbie as Rapunzel</strong>
+                <br>บาร์บี้ เจ้าหญิงราพันเซล <br> <strong>ราคา </strong>: 180 บาท</p>
+            </figcaption>
+        </figure>
+        <hr>
+        <figure>
+            <a href="images/products/04.jpg">
+            <img src="images/products/04.jpg" 
+                 alt="คลิกเพื่อดูรูปขนาดใหญ่"
+                 width="200">
+            </a>
+            <figcaption>
+                 <p><strong>Barbie in The Pink Shoes </strong>
+                <br>บาร์บี้ มหัศจรรย์รองเท้าสีชมพู <br> <strong>ราคา </strong>: 200 บาท</p>
+            </figcaption>
+        </figure>
+        <hr>
+        <figure>
+            <a href="images/products/05.jpg">
+            <img src="images/products/05.jpg" 
+                 alt="คลิกเพื่อดูรูปขนาดใหญ่"
+                 width="200">
+            </a>
+            <figcaption>
+                 <p><strong>Barbie as The Island Princess </strong>
+                <br>บาร์บี้ เจ้าหญิงแห่งเกาะหรรษา <br> <strong>ราคา </strong>: 250 บาท</p>
+            </figcaption>
+        </figure>
+        <hr>
+
+    </section>    
+</body>
+</html>
 
 
 
