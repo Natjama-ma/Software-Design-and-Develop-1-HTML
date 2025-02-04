@@ -76,5 +76,6 @@
 ### บันทึกผลการทดลอง
 
 ![image](https://github.com/user-attachments/assets/92a11e35-4f71-470c-9715-296c30c6d2cf)
+![image](https://github.com/user-attachments/assets/786484e5-acb6-4dfa-bf06-49d6939885cf)
 
 
