@@ -69,7 +69,7 @@
 - ภาพผลลัพธ์:
 [วางภาพ screenshot ที่นี่]
 
-![image](https://github.com/user-attachments/assets/4c0a1376-1709-49d8-94d4-20197380214b)
+![image](https://github.com/user-attachments/assets/81828cd3-357e-4a50-8034-d014a20813aa)
 
 [วางโค้ด HTML ที่นี่]
 ```<!DOCTYPE html>
@@ -111,7 +111,7 @@
         </tr>
         <tr>
             <td>อายุ</td>
-            <td>18</td>
+            <td>18 ปี</td>
         </tr>
         <tr>
             <td>มหาวิทยาลัย</td>
